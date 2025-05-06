@@ -49,5 +49,3 @@ Feel free to fork the repo, fix bugs, add features, and submit pull requests. Le
 
 # License
 This project is open source under the MIT License.
-
-*Developed by Gitspert25 | Aspiring All-Type Engineer from Jauhrabad, Pakistan*
